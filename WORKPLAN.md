@@ -15,3 +15,13 @@
 - While loop
 - break / continue
 - Guessing Game
+
+- ## Day 4: Loops
+
+- File: [day4_basics.ipynb](day4_basics.ipynb)
+- Topics Covered:
+  - For loops
+  - While loops
+  - Nested loops
+  - Break & Continue
+
