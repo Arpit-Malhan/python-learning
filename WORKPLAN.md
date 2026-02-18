@@ -3,24 +3,27 @@
 ## Day 1: Python Basics
 
 - File: [day1_basics.ipynb](day1_basics.ipynb)
-- Variables
-- Input
-- Operators
-- Mini Calculator
+- Topics:
+  - Variables
+  - Input
+  - Operators
+  - Mini Calculator
 
 ## Day 2: Conditions
 
 - File: [day2_basics.ipynb(day2_basics.ipynb)
-- If / Else
-- Marks Checker
+- Topics:
+  - If / Else
+  - Marks Checker
 
 ## Day 3: Loops
 
 - File; [day3_basics.ipynb](day3_basics.ipynb)
-- For loop
-- While loop
-- break / continue
-- Guessing Game
+- Topics:
+  - For loop
+  - While loop
+  - Break / Continue
+  - Guessing Game
 
 - ## Day 4: Loops
 
@@ -30,5 +33,6 @@
   - While loops
   - Nested loops
   - Break & Continue
+
 
 
